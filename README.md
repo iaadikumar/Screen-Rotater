@@ -1,2 +1,2 @@
 # Screen-Rotater
-This program will rotate the screen
+This program will rotate your screen screen
